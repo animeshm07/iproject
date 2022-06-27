@@ -1,4 +1,4 @@
-from .models import Iproject
+
 from . import models
 from fastapi import *
 from .schema import Items
